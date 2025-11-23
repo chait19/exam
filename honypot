@@ -16,3 +16,7 @@ cd dow
 10.0.2.15:80
 
 pwgen 12 10
+
+
+sudo apt install curl -y
+curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sudo sh -s -- -b /usr/local/bin
