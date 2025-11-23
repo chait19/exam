@@ -3,3 +3,11 @@ tar xvfz pentbox-1.8.tar.gz
 sudo apt install ruby
 sudo apt up
 cd pentbox-1.8
+
+
+mv apktool.2.12.0.jar apktool.jar
+sudo apktool.jar /user/local/bin
+cd /u/l/b
+chmod +
+cd
+cd dow
