@@ -1,0 +1,5 @@
+wget https://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.8.tar.gz
+tar xvfz pentbox-1.8.tar.gz
+sudo apt install ruby
+sudo apt up
+cd pentbox-1.8
